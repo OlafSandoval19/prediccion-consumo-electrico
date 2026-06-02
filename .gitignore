@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+
+data/consumos.csv
+models/
+
+.env
+.DS_Store
